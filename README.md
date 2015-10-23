@@ -1,2 +1,4 @@
-# wb-docs-toofab.github.io
-Documentation site and tools for Toofab apps. 
+wb-docs-toofab.github.io
+=======================
+
+Documentation site and tools for Toofab apps.
